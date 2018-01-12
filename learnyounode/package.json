@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "learnyounode": "^3.5.10"
+  },
+  "devDependencies": {
+    "prettier": "^1.10.2"
+  }
+}
